@@ -7,8 +7,7 @@ Software Engineer
 Hello, my name is Kyndal LoCascio; I am Software Engineer, who has experience with MongoDB, ExpressJS, React, NodeJS (MERN stack), Django, Python, Javascript, Git, SQL, CSS and HTML.
 
 * 🌍  I'm based in New York
-* ✉️  You can contact me at [KyndalCodes@gmail.com](mailto:KyndalCodes@gmail.com)
-* 🧠  I'm learning Python
+* ✉️  You can contact me at [KyndalLoCascio@gmail.com](mailto:KyndalLoCascio@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
